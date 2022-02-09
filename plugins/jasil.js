@@ -7,22 +7,25 @@ const Lang = Language.getString('wallpaper');
 
 Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the bot"}, (async (message, match) => {
 
-    var skl = await axios.get("https://i.imgur.com/CtaexU3.jpeg", { responseType: 'arraybuffer' })
+    var skl = await axios.get("https://i.imgur.com/Mbaz2g9.jpg", { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `*Bᴏᴛ Nᴀᴍᴇ 🇦 🇲 🇷 🇺   🇸 🇪 🇷  🇧 🇴 🇹 *
+    await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `Bᴏᴛ Nᴀᴍᴇ  Sᴘɪʀɪᴛ sᴇʀ Bᴏᴛ 
 
-*Cʀᴇᴀᴛᴇʀ number : wa.me/917025631103?text=Hi%20ᴀᴍʀᴜ%20bro.%20*
+ᴄʀᴇᴀᴛᴏʀ ɴᴜᴍʙᴇʀ: wa.me/917994093863
 
+Tʜɪs ʙᴏᴛ Oᴡɴᴇʀ Nᴀᴍᴇ : 💝sᴘɪʀɪᴛ Sᴇʀ Bᴏᴛ ➪ Sᴘɪʀɪᴛ💝
 
- *Aᴍʀᴜ sᴇʀ Cʜᴀɴᴀʟ : https://youtu.be/x47g62HcsWc😁*
-     
- *Iɴsᴛᴀɢʀᴀᴍ ɪᴅ: https://instagram.com/its_me_dron?utm_medium=copy_link*
+sᴘɪʀɪᴛ ʙᴏᴛ ɢʀᴏᴜᴘ: https://chat.whatsapp.com/F3adhxvYpd3KzVptzDxhC4
 
- *Aᴍʀᴜ sᴇʀ Bᴏᴛ Gʀᴏᴜᴘ: https://chat.whatsapp.com/DnHJu25Ccss7zn72nPhL8z*
+Gɪᴛʜᴜʙ ʟɪɴᴋ:  https://github.com/SPlRlT-YT/SPIRIT-SER
 
- *Gɪᴛ Lɪɴᴋ : https://github.com/AMRUSIR/AMRU-SER*
+Aᴜᴅɪᴏ ᴄᴏᴍᴍᴀᴅᴇ :   https://github.com/SPlRlT-YT/SPIRIT-SER/tree/master/uploads
 
- *Aᴍʀᴜ-sᴇʀ-ʙᴏᴛꫂ⁩..♡︎*
+Sᴛɪᴄᴋᴇʀ ᴄᴏᴍᴍᴀᴅᴇ: https://github.com/SPlRlT-YT/SPIRIT-SER/tree/master/spiritser
+
+Cʜᴀɴɴᴇʟ :  https://youtube.com/channel/UCBv1Z1zkOmdGeWU2QRdYBnA
+
+💝sᴘɪʀɪᴛ Sᴇʀ Bᴏᴛ Cʀᴇᴀᴛᴇᴅ Bʏ Sᴘɪʀɪᴛ Sᴇʀ 💝
 `}) 
 
 }));
