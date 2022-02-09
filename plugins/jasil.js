@@ -21,7 +21,7 @@ Gɪᴛʜᴜʙ ʟɪɴᴋ:  https://github.com/SPlRlT-YT/SPIRIT-SER
 
 Aᴜᴅɪᴏ ᴄᴏᴍᴍᴀᴅᴇ :   https://github.com/SPlRlT-YT/SPIRIT-SER/tree/master/uploads
 
-Sᴛɪᴄᴋᴇʀ ᴄᴏᴍᴍᴀᴅᴇ: https://github.com/SPlRlT-YT/SPIRIT-SER/tree/master/spiritser
+Sᴛɪᴄᴋᴇʀ ᴄᴏᴍᴍᴀᴅᴇ: https://github.com/SPlRlT-YT/SPIRIT-SER/tree/master/Spiritser
 
 Cʜᴀɴɴᴇʟ :  https://youtube.com/channel/UCBv1Z1zkOmdGeWU2QRdYBnA
 
